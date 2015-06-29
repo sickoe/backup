@@ -1,0 +1,1 @@
+dexdump $1 | grep 'Class descriptor'
